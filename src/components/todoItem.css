@@ -1,0 +1,12 @@
+.todoWrapper {
+  border-bottom: 1px solid #efefef;
+  text-align: justify;
+  margin-bottom: 10px;
+}
+.btn {
+  color: rgb(75, 185, 212);
+  border-color: rgba(73, 204, 249, 1.0);
+  background-color: transparent;
+  
+}
+
