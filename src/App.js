@@ -11,7 +11,7 @@ class App extends Component {
       todos: [
         {id: 0, text: "Explore: React, Redux"},
         {id: 1, text: "Go through MERN"},
-        {id: 2, text: "Understand and apply Stanford core NLP"}
+        {id: 2, text: "Understand and apply StanfordCore NLP"}
         
       ],
       nextId: 3
